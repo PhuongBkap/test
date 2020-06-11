@@ -30,7 +30,7 @@ $new_product = mysqli_query($conn,"SELECT * FROM product WHERE status = 1 ORDER 
 			<a class="right carousel-control" href="#carousel-id" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 		</div>
 		
-		<div class="container">
+		<div class="container">gh67y77usdsd
 			<div class="row">
 				<div class="col-md-3">
 					<div class="panel panel-info">
